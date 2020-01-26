@@ -3,7 +3,8 @@
     "description": "Action executors for my diploma project.",
     "type": "library",
     "require": {
-        "massfice/action": "^1.0"
+        "massfice/action": "^v1.0",
+        "massfice/response-status": "^v1.0"
     },
     "license": "MIT",
     "authors": [

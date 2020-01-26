@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8219fea182fecc8a547da3bca4ff4208",
+    "content-hash": "62b1afb4f71b90e00b0d290b14ca968d",
     "packages": [
         {
             "name": "massfice/action",
@@ -44,16 +44,16 @@
         },
         {
             "name": "massfice/response-status",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Massfice/response-status.git",
-                "reference": "1befb6d9c233af9f76f8fbf4cd77774fc3d248cb"
+                "reference": "5131211639ccc950fe5de494153ff363f6f077ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Massfice/response-status/zipball/1befb6d9c233af9f76f8fbf4cd77774fc3d248cb",
-                "reference": "1befb6d9c233af9f76f8fbf4cd77774fc3d248cb",
+                "url": "https://api.github.com/repos/Massfice/response-status/zipball/5131211639ccc950fe5de494153ff363f6f077ca",
+                "reference": "5131211639ccc950fe5de494153ff363f6f077ca",
                 "shasum": ""
             },
             "type": "library",
@@ -73,7 +73,7 @@
                 }
             ],
             "description": "Package contains response-status class, that contains info about validation status, response http code, errors array, messages, etc. Project for my diploma.",
-            "time": "2020-01-21T22:15:35+00:00"
+            "time": "2020-01-25T17:06:20+00:00"
         }
     ],
     "packages-dev": [],
